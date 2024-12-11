@@ -23,3 +23,8 @@ console.log(isBoolean)
 console.log(typeof isBoolean)
 
 //1=>true   0=>false  'fdffdb'=>true ' '=> false
+
+//OPERATIONS//
+
+//prefix increment returns the value after incrementing
+//postfix increment returns the value before incrmenting
